@@ -1,0 +1,18 @@
+<script lang="ts">
+    let files = $state([]);
+</script>
+
+<h1>Colorful File Sharerer</h1>
+
+<h2>Upload</h2>
+<input type="file" id="uploader" hidden />
+
+<hr />
+
+<h2>Download</h2>
+<div class="key-inputs">
+    <span>#</span><input type="text" />
+</div>
+
+<style>
+</style>

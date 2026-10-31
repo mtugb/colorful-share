@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/mtugb/bun-package-json-schema/main/schema.json",
+  "name": "colorful-share",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "web",
+    "api"
+  ]
+}
